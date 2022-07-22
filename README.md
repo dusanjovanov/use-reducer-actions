@@ -13,7 +13,7 @@ yarn add @dusanjovanov/use-reducer-actions
 ## Features
 
 - Tiny `312B`
-- Full Typescript support (types inferred, no need for explicit typings)
+- Full Typescript support
 
 ## Usage
 
