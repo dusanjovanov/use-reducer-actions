@@ -2,8 +2,6 @@
 
 Hook which simplifies `useReducer`
 
-<br />
-
 [![npm](https://img.shields.io/npm/v/@dusanjovanov/use-reducer-actions?color=%231E90FF&label=npm&style=for-the-badge)](https://www.npmjs.com/package/@dusanjovanov/use-reducer-actions)
 
 ```bash
