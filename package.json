@@ -35,6 +35,15 @@
   },
   "name": "@dusanjovanov/use-reducer-actions",
   "author": "Dusan Jovanov",
+  "repository": {
+    "url": "https://github.com/dusanjovanov/use-reducer-actions"
+  },
+  "description": "Simplified useReducer",
+  "keywords": [
+    "react",
+    "hook",
+    "use-reducer"
+  ],
   "module": "dist/use-reducer-actions.esm.js",
   "size-limit": [
     {
