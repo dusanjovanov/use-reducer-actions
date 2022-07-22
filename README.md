@@ -18,6 +18,8 @@ yarn add @dusanjovanov/use-reducer-actions
 ## Usage
 
 ```tsx
+import { useReducerActions } from '@dusanjovanov/use-reducer-actions';
+
 const Counter = () => {
   const [state, actions] = useReducerActions({
     initialState: {
